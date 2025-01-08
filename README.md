@@ -97,6 +97,3 @@ spotify/
 **Himanshu Mehra[(https://github.com/HimanshuuMehra)]**  
 Aspiring developer passionate about automation, AI, and web technologies.
 
----
-
-Let me know if you'd like to personalize any section further!
